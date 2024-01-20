@@ -1,0 +1,2 @@
+# SubSync
+Syncronizing subtitle timing
